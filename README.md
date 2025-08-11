@@ -6,17 +6,23 @@ The primary goal of this project is to enhance the understanding of customer beh
 **Tools Used:**
 
 **SQL**: Used for data extraction, transformation, and aggregation to create customer segments.
+
 **Tableau**: Utilized for visualizing the segmentation results and analyzing perk distribution across customer groups.
 
 **Step by Step Process**
+
 **EDA** - Exploring the Data
+
 **Data Collection**: Gathering customer data, including behavioral metrics and demographic information using SQL query.
 
 **Cohort Definition:** Following guidance from the Marketing Team, our defined cohort consists of users who engaged with the platform starting from January 4, 2023 and participated in more than seven browsing sessions during this period.
 
 **Feature Engineering** - Devising Metrics
+
 **Data Exploration:** Calculate various metrics such as number of sessions, cancellation_rate, total trips, average checked bags, total hotel spend, etc.
+
 **Customer Segmentation** - Grouping the Customers
+
 **Assigning Customer Groups:** Based on the aggregated metrics we assign customer groups accordingly.
 
 **Defining Perks:** Defining the most attractive perk for each customer based on their demographic characteristics and hotel, flight and session activities.
@@ -24,8 +30,9 @@ The primary goal of this project is to enhance the understanding of customer beh
 **Visualization:** Visualize the distribution of customer segments and the effectiveness of different perks using Tableau. Examine patterns in perk preferences and segment behaviors to adjust marketing strategies.
 
 **Conclusions and Recommendations**
+
  Summarizing the project's goals, findings, and provide recommendations based on customer segmentation.
 
-**Resources**
+**Resources:**
 
 **Presentation:** https://docs.google.com/presentation/d/1Xx3m4LMgy8qiPwbm9xz62v-N7IcSTLzp_XmVoQfz-5M/edit#slide=id.gcb9a0b074_1_0
