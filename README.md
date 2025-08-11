@@ -45,4 +45,4 @@ The primary goal of this project is to enhance the understanding of customer beh
 ## **Resources**
 
 
-* **Presentation:** https://docs.google.com/presentation/d/1Xx3m4LMgy8qiPwbm9xz62v-N7IcSTLzp_XmVoQfz-5M/edit#slide=id.gcb9a0b074_1_0
+* **Presentation:** https://docs.google.com/presentation/d/1FEtxHsN9_z8Myn6HBKwHAuf4PqG0lhw-/edit?slide=id.p5#slide=id.p5
